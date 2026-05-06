@@ -1,0 +1,8 @@
+source,target,distance
+Depot,A,4
+Depot,B,8
+A,C,2
+B,C,5
+C,D,3
+A,D,7
+B,D,6

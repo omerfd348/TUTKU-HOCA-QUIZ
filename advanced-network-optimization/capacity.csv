@@ -1,0 +1,8 @@
+source,target,capacity
+Depot,A,10
+Depot,B,15
+A,C,5
+B,C,10
+C,D,10
+A,D,5
+B,D,10
